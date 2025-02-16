@@ -1,39 +1,85 @@
-<h1 align="center">Hi 👋, I'm Anuradha Muthukumarana</h1>
-<h3 align="center">A Passionate QA Automation Engineer</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuradha9099&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
-🛠️ Technology Stack
+<div align="center">
 
-Programming Languages:
-Show Image
-Show Image
-Testing Frameworks:
-Show Image
-Show Image
-Show Image
+# 👋 Welcome to Anuradha's Tech Space
 
-🚀 Featured Repositories
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuradha-muthukumarana-738738224/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anuradha9099)
 
-Selenium_Framework - A robust automated testing framework using Selenium
-JMeter_Training - Comprehensive JMeter training materials
-Rest_Assured_Training - API testing resources with REST Assured
-Selenium_Training - Selenium automation testing guides
+### Test Automation Engineer | Java Enthusiast | Selenium Expert
 
-📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuradha9099&theme=dracula" alt="GitHub Streak" />
-</p>
-🤝 Connect with Me
-Show Image
-⚡ Quick Facts
+</div>
 
-🔭 Currently working on: Automation Testing Frameworks
-🌱 Learning: Advanced API Testing Techniques
-👨‍💻 Experience: QA Automation
-⏰ Time Zone: UTC +05:30
+## 🚀 Featured Projects
 
+### 🔹 Selenium Framework
+- A robust and scalable test automation framework built with Selenium WebDriver
+- Implements Page Object Model (POM) design pattern
+- Integrated with TestNG for test execution and reporting
+- Maven for dependency management
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anuradha9099&color=blueviolet" alt="Profile views" />
-</p>
+### 🔹 JMeter Training
+- Comprehensive performance testing materials
+- Load testing best practices
+- Test script optimization guides
+- Real-world testing scenarios
+
+### 🔹 Rest Assured Training
+- API testing fundamentals and advanced concepts
+- Best practices for REST API automation
+- Integration with CI/CD pipelines
+- Extensive example test cases
+
+## 💻 Technical Skills
+
+```mermaid
+mindmap
+  root((Skills))
+    Testing
+      Selenium WebDriver
+      JMeter
+      Rest Assured
+      TestNG
+    Programming
+      Java
+      JavaScript
+    Tools
+      Maven
+      Git
+      Jenkins
+    Frameworks
+      Page Object Model
+      Data Driven
+      Keyword Driven
+```
+
+## 🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Testing-JMeter-informational?style=flat&logo=apache-jmeter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-RestAssured-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuradha9099&show_icons=true&theme=radical)
+
+</div>
+
+## 🤝 Let's Connect!
+
+Feel free to reach out if you're interested in:
+- 🤖 Test Automation
+- 🌐 API Testing
+- 📊 Performance Testing
+- 👥 Collaboration on Testing Projects
+
+<div align="center">
+
+### "Quality is not an act, it is a habit." - Aristotle
+
+</div>
+
+---
+⭐️ From [Anuradha9099](https://github.com/Anuradha9099)
